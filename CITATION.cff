@@ -10,7 +10,7 @@ authors:
     affiliation: "Rethink Zero B.V."
 version: 1.0.0
 date-released: "2026-07-24"
-doi: "[DOI - fill in after Zenodo reservation]"
+doi: "10.5281/zenodo.21813641"
 license: Apache-2.0
 repository-code: "https://github.com/eajdiependaal/storage-emissions"
 preferred-citation:
