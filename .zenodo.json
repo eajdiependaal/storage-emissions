@@ -1,0 +1,32 @@
+{
+  "title": "storage-emissions: transparent framework for assessing the emission impact of battery storage dispatch",
+  "description": "Code accompanying \"From marginal emission factors to storage dispatch: a transparent framework for assessing the emission impact of battery operation in electricity markets\" (Diependaal, Boonman &amp; Chiesa, 2026). Reconstructs a price-consistent, hourly marginal emission intensity (MEI) signal from public day-ahead prices, fuel prices, and power plant characteristics, and couples it to battery dispatch under five strategies (greedy benchmark, profit-maximising, emission-minimising, and two lexicographic variants) to quantify the cashflow-emission trade-off. Case study: 1 MW / 2 MWh battery in the Dutch bidding zone, 2018-2025.",
+  "creators": [
+    {
+      "name": "Diependaal, Enzo A.J.",
+      "affiliation": "UiT The Arctic University of Norway; Rethink Zero B.V."
+    },
+    {
+      "name": "Boonman, Marien",
+      "affiliation": "Rethink Zero B.V."
+    },
+    {
+      "name": "Chiesa, Matteo",
+      "affiliation": "UiT The Arctic University of Norway"
+    }
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "battery storage",
+    "electricity markets",
+    "marginal emission factors",
+    "dispatch optimisation",
+    "day-ahead market",
+    "greenhouse gas emissions",
+    "dynamic programming"
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}
