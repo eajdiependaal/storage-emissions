@@ -4,6 +4,10 @@ title: "From marginal emission factors to storage dispatch: a transparent framew
 authors:
   - family-names: "Diependaal"
     given-names: "Enzo A.J."
+    affiliation: "UiT The Arctic University of Norway; Rethink Zero B.V."
+  - family-names: "Boonman"
+    given-names: "Marien"
+    affiliation: "Rethink Zero B.V."
 version: 1.0.0
 date-released: "2026-07-24"
 doi: "[DOI - fill in after Zenodo reservation]"
@@ -15,6 +19,13 @@ preferred-citation:
   authors:
     - family-names: "Diependaal"
       given-names: "Enzo A.J."
+      affiliation: "UiT The Arctic University of Norway; Rethink Zero B.V."
+    - family-names: "Boonman"
+      given-names: "Marien"
+      affiliation: "Rethink Zero B.V."
+    - family-names: "Chiesa"
+      given-names: "Matteo"
+      affiliation: "UiT The Arctic University of Norway"
   journal: "[journal/venue - fill in]"
   year: 2026
   doi: "[paper DOI - fill in]"

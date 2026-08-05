@@ -106,7 +106,7 @@ are needed. See "How to adapt to a different bidding zone" in
 
 If you use this code, please cite:
 
-> [Diependaal et al., 2026, From marginal emission factors to storage dispatch: a transparent framework for assessing the emission impact of battery operation in electricity markets, journal/venue, DOI]
+> Diependaal, E.A.J., Boonman, M., Chiesa, M. (2026). From marginal emission factors to storage dispatch: a transparent framework for assessing the emission impact of battery operation in electricity markets. [journal/venue - fill in], [DOI - fill in].
 
 See also [`CITATION.cff`](CITATION.cff).
 
