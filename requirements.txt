@@ -1,0 +1,9 @@
+# Core model (model/): algorithms.py, storage.py, market.py, run.py
+# Pure computation - no plotting dependency.
+numpy==2.4.2
+pandas==3.0.1
+
+# Paper-specific analysis and figure/table generation (support/) only -
+# not required to run model/run.py.
+matplotlib==3.10.8
+openpyxl==3.1.5

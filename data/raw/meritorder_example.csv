@@ -1,0 +1,5 @@
+name,fuel,efficiency,var_om_eur_mwh,co2_kg_per_kwh,capacity_mw,notes
+RES,wind,1.0,0.0,0.0,1000,Example zero-marginal-cost unit
+CCGT,gas,0.57,3.0,0.352632,500,Example combined-cycle gas plant
+OCGT,gas,0.35,4.0,0.574286,200,Example open-cycle gas turbine
+Coal,coal,0.45,4.0,0.755556,800,Example coal plant

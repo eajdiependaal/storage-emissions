@@ -1,0 +1,17 @@
+# Amer (Amercentrale) fuel-mix transition timeline
+# Source: Global Energy Monitor, Amer power station,
+#         https://www.gem.wiki/Amer_power_station, accessed 2026-05-28
+#
+# The plant (operator RWE) co-fires coal and biomass with increasing biomass share.
+# Each row is the start date from which the given shares apply (step function).
+# coal_share + biomass_share = 1.0 at all times.
+#
+# Biomass emission factor: 0.0 kg/kWh_th under EU ETS Article 38(2) of
+# Commission Implementing Regulation (EU) 2018/2066.
+# Biomass fuel price proxy: coal price (no open biomass spot-market series
+# available at daily resolution; stated as a model limitation in the paper).
+date_from,coal_share,biomass_share,note
+1900-01-01,1.0,0.0,Historical baseline — coal only before 2016
+2016-01-01,0.5,0.5,RWE announced 50% cofiring target (GEM)
+2023-07-01,0.2,0.8,Conversion to 80% biomass confirmed July 2023 (GEM)
+2025-01-01,0.0,1.0,Full biomass conversion confirmed by RWE (GEM)

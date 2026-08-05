@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "From marginal emission factors to storage dispatch: a transparent framework for assessing the emission impact of battery operation in electricity markets"
+authors:
+  - family-names: "Diependaal"
+    given-names: "Enzo A.J."
+version: 1.0.0
+date-released: "2026-07-24"
+doi: "[DOI - fill in after Zenodo reservation]"
+license: Apache-2.0
+repository-code: "https://github.com/eajdiependaal/storage-emissions"
+preferred-citation:
+  type: article
+  title: "From marginal emission factors to storage dispatch: a transparent framework for assessing the emission impact of battery operation in electricity markets"
+  authors:
+    - family-names: "Diependaal"
+      given-names: "Enzo A.J."
+  journal: "[journal/venue - fill in]"
+  year: 2026
+  doi: "[paper DOI - fill in]"
