@@ -5,6 +5,9 @@ three columns removed because the underlying data is licensed and cannot
 be redistributed. This document lists what was removed, where to obtain
 it, and how to rebuild the file.
 
+If you'd rather not source and rebuild these series yourself, contact
+the corresponding author (enzo.a.diependaal@uit.no) directly.
+
 ## What ships, what doesn't
 
 The shipped file has two columns: `Datum` (date) and `blast furnace gas`
